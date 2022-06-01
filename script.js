@@ -6,7 +6,7 @@ var a=prompt("aradhya");
   	}
   	else
   	{
-  		alert("invalid details");
+  		alert("Many many happy returns of the day");
   		window.location.href="index.html";
   	}
   	
